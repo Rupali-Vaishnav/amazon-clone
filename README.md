@@ -1,3 +1,3 @@
 # amazon-clone
-This is my first Git Repository
-Author-Rupali Vaishnav
+This is my first Git Repository.
+Author- Rupali Vaishnav
